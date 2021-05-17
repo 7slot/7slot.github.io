@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Slot Deposit Pulsa</title>
+    <link href="https://7slot.github.io/feed.xml" rel="self" />
+    <link href="https://7slot.github.io" />
+    <updated>2021-05-07T20:17:35+07:00</updated>
+    <author>
+        <name>test</name>
+    </author>
+    <id>https://7slot.github.io</id>
+
+    <entry>
+        <title>test blog</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://7slot.github.io/test-blog.html"/>
+        <id>https://7slot.github.io/test-blog.html</id>
+
+        <updated>2021-05-07T20:17:35+07:00</updated>
+            <summary>
+                <![CDATA[
+                    ini adalah test blog 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ini adalah test blog <figure class="post__image"><img loading="lazy"  src="https://7slot.github.io/media/posts/1/2685.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://7slot.github.io/media/posts/1/responsive/2685-xs.jpg 300w ,https://7slot.github.io/media/posts/1/responsive/2685-sm.jpg 480w ,https://7slot.github.io/media/posts/1/responsive/2685-md.jpg 768w"  alt="" width="500" height="401"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
